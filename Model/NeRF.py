@@ -2,13 +2,6 @@
 NeRF Turntable Pipeline
 =======================
 Train a NeRF model on turntable images of an object and generate novel views.
-
-Usage:
-    # Using real images from a folder:
-    python NeRF.py --data_dir "path/to/your/images"
-    
-    # Using synthetic data for testing:
-    python NeRF.py --synthetic
 """
 
 import os
