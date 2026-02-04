@@ -95,6 +95,6 @@ Copy-Item -Recurse -Force ".\dist\*" "..\backend\static\"
 
 MIT License
 
----
+----
 
 
