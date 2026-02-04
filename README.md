@@ -91,6 +91,13 @@ Copy-Item -Recurse -Force ".\dist\*" "..\backend\static\"
 - **Frontend**: React, Vite, Tailwind CSS
 - **ML**: PyTorch, Neural Radiance Fields
 
+## Note
+this project was done during my tenure as the project co lead at my college society CAIS (COMSATS AI Society)
+this was a part of our Nights And Weekends program hence the reason for a seperate section for CAIS
+
+## Whats next for v2?
+I'll be adding complete mesh extraction using marching cubes and ray tracing to enable 3d object viewing and rendering in the web app using three.js
+
 ## License
 
 MIT License
