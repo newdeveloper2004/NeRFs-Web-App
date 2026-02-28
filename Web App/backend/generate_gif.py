@@ -10,7 +10,7 @@ import torch
 import numpy as np
 from tqdm import tqdm
 import imageio
-from NeRF import (
+from Model.NeRF import (
     NeRF, VolumetricRenderer, TurntablePoseGenerator, 
     CONFIG, device
 )
